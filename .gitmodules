@@ -1,0 +1,12 @@
+[submodule "Problema1--Java"]
+	path = Problema1--Java
+	url = https://github.com/thuthu-c/Problema1--Java.git
+[submodule "Problema1-GO"]
+	path = Problema1-GO
+	url = https://github.com/thuthu-c/Problema1-GO.git
+[submodule "Problema2-JAVA"]
+	path = Problema2-JAVA
+	url = https://github.com/thuthu-c/Problema2-JAVA.git
+[submodule "Problema2-GO"]
+	path = Problema2-GO
+	url = https://github.com/thuthu-c/Problema2-GO.git
